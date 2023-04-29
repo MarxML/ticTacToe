@@ -3,4 +3,4 @@
 
 
 This is written in Java and utilizes Swing for GUI implementation. 
-This app allows Tic Tac Toe to be played with either a computer opponent or a fellow player. 
+This app allows Tic Tac Toe to be played a fellow player sharing the screen
